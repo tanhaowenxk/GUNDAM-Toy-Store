@@ -1,4 +1,4 @@
-# anime-toy-webiste
+# GUNDAM-Toy-Store
 
 ## Introduction
 This is project mimicking an ecommerce website to build a simple shopping cart for anime toys store for my EGC151 Python Programming in year 1. 
