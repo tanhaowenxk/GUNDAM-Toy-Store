@@ -21,6 +21,7 @@ Project development
 10. Users prompted for discount types upon Check-out
 11. Bill statement: Total price before discount & GST, Discount, GST after discount, Total Payable. Alignment & Clarity to viewers.  
 12. Accuracy of calculations. Total price before discount & GST, Discount, GST after discount, Total Payable.
+
 """
 1. Users have the ease of adding items to cart, e.g. 1,2,3,4
  
