@@ -1,7 +1,9 @@
 # GUNDAM-Toy-Store
 
 ## Introduction
-This is project mimicking an ecommerce website to build a simple shopping cart for anime toys store for my EGC151 Python Programming in year 1. 
+This is a project where we mimicked an e-commerce website to build a simple shopping cart for an anime toy store for my EGC151 Python Programming in Year 1 Semester 1. I am the leader and main coder of this project.
+
+I struggled with debugging, having to check the code line by line to find errors and understand why it wasn't working. I learned by watching YouTube tutorials or searching on Google.
 
 Following is the code:
 
